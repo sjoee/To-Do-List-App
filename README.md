@@ -1,4 +1,6 @@
 # To-Do-List-App
+A simple to-do list app that helps users track their tasks
+
 
 ToDo List is an innovative productivity application designed to revolutionize personal and professional task management. By combining intuitive design with powerful functionality, the app provides a comprehensive solution for individuals seeking to optimize their daily workflow and achieve their most ambitious goals.
 
